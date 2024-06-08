@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **backend development**
 
-- 👨‍💻 All of my experiences are available at [https://github.com/Akila-Prabath/My-Portfolio/blob/main/Portfolio/portfolio.html](my portfolio)
+- 👨‍💻 All of my experiences are available at **my portfolio**
 
 - 💬 Ask me about **html, css, java**
 
