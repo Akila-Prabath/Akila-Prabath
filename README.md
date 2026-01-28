@@ -35,10 +35,15 @@ I'm a Software Engineering undergraduate from Sri Lanka with an interest in deep
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Prabath&show_icons=true&theme=tokyonight&hide_border=true" height="250" width="330"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Prabath&layout=compact&theme=tokyonight&hide_border=true" height="150" width="330"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Akila-Prabath&theme=tokyonight&hide_border=true" height="270" width="330"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akila-Prabath&show_icons=true&theme=tokyonight&hide_border=true" height="180" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Akila-Prabath&theme=tokyonight&hide_border=true" height="180" width="420"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Prabath&layout=compact&theme=tokyonight&hide_border=true" height="180" width="400"/>
+</p>
+
 <!--<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Akila-Prabath&theme=tokyonight&hide_border=true"/>
 </p>-->
