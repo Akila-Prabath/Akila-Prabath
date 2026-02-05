@@ -42,8 +42,8 @@ I'm a Software Engineering undergraduate from Sri Lanka with an interest in deep
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Prabath&layout=compact&theme=tokyonight&hide_border=true" height="180" width="370"/>
-  <!--<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akila-Prabath&layout=compact&theme=tokyonight&hide_border=true"/>-->
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Prabath&layout=compact&theme=tokyonight&hide_border=true" height="180" width="370"/>-->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akila-Prabath&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!--<p align="center">
